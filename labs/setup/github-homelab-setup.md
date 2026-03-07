@@ -110,4 +110,23 @@ After saving that change, the repository page immediately showed the full lab fi
 
 The `home-lab` repository is live on GitHub with the full lab structure visible. The process uncovered three separate failure points: overwriting the `.git` folder during file extraction, a branch name mismatch between local and remote, and GitHub defaulting to the wrong branch after the push. All three were resolved. This workflow, init, add remote, stage, commit, push, is the baseline process for all future lab documentation.
 
+## Adding Updates to the Repository
+
+Once the repository is set up, pushing future changes is straightforward. Any time a lab file is added, edited, or reorganized, run the following three commands from the repository directory:
+
+```bash
+cd C:\Users\user\home-lab
+git add .
+git commit -m "describe what you changed"
+git push
+```
+
+`git add .` stages everything that has changed since the last commit, including new files and deletions. The commit message should briefly describe what was updated, for example `"add proxmox install lab"` or `"update networking notes"`. `git push` sends the commit to GitHub. Because the upstream was already set with `-u` during the initial push, no branch name is needed here.
+
+If Git Credential Manager cached the login during the initial push, no additional authentication prompt will appear. If prompted, a browser popup will handle it the same way as before.
+
+### Updating the README
+
+The README (`README.md`) is a regular file in the repository folder and does not update itself. To keep it current — for example, adding a new lab to the list or updating descriptions — open it in any text editor, make the changes, save it, and run the three commands as normal. `git add .` will stage the README change along with anything else that was modified.
+
 *Next: [Proxmox Hypervisor Installation](../proxmox/proxmox-install.md)*
