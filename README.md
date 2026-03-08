@@ -55,6 +55,7 @@ The goal isn't to show things went perfectly. It's to show I can figure out why 
 |---|---|---|
 | [Windows Administration Labs](labs/admin-labs/windows-admin-labs.md) | Mar 5, 2026 | Complete |
 | [macOS Administration Labs](labs/admin-labs/macos-admin-labs.md) | Mar 6, 2026 | Complete |
+
 ---
 
 ## Skills Developed
