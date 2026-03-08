@@ -25,7 +25,7 @@ The goal isn't to show things went perfectly. It's to show I can figure out why 
 
 | Lab | Date | Status |
 |---|---|---|
-| [GitHub Repository Setup](labs/setup/github-repo-setup.md) | Mar 7, 2026 | Complete |
+| [GitHub Repository Setup](labs/setup/github-homelab-setup.md) | Mar 7, 2026 | Complete |
 
 ### Proxmox
 
