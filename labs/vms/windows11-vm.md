@@ -130,4 +130,4 @@ Windows 11 Enterprise VM running and accessible via RDP at `192.168.86.35`. The 
 
 ---
 
-*Next: [Windows Administration Labs](../admin-labs/windows-admin-labs.md)*
+*Next: [macOS Ventura VM](macos-ventura.md)*

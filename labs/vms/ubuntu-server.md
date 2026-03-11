@@ -195,4 +195,4 @@ Ubuntu Server 24.04.4 running and accessible via SSH at `192.168.86.32`. The det
 
 ---
 
-*Next: [Pi-hole DNS Server](../networking/pihole.md)*
+*Next: [Windows 11 Enterprise VM](windows11-vm.md)*

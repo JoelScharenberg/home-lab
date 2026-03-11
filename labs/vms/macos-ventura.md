@@ -170,4 +170,4 @@ macOS Ventura running on non-Apple x86 hardware, accessible via VNC from Windows
 
 ---
 
-*Next: [macOS Administration Labs](../admin-labs/macos-admin-labs.md)*
+*Next: [Pi-hole DNS Server](../networking/pihole.md)*
