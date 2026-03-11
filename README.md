@@ -54,6 +54,7 @@ The goal isn't to show things went perfectly. It's to show I can figure out why 
 | Lab | Date | Status |
 |---|---|---|
 | [SSH Key Authentication](labs/security/ssh-key-auth.md) | Mar 9, 2026 | Complete |
+| [Configure and Test UFW Firewall Rules on Ubuntu Server](labs/security/ufw-firewall-rules.md) | Mar 10, 2026 | Complete |
 
 ### Admin Labs
 
@@ -76,7 +77,7 @@ The goal isn't to show things went perfectly. It's to show I can figure out why 
 
 **macOS** - Finder, Spotlight, Mission Control, Keychain Access, FileVault, iCloud, Screen Sharing and VNC
 
-**Security** - SSH key authentication (Ed25519), sshd hardening, drop-in config management, auth log analysis
+**Security** - SSH key authentication (Ed25519), sshd hardening, drop-in config management, auth log analysis, UFW firewall rules, port filtering, rule ordering, traffic log analysis
 
 **Troubleshooting** - RAM failure diagnosis via hash-based memory testing, BIOS boot failure resolution, network misconfiguration recovery, RDP debugging
 
