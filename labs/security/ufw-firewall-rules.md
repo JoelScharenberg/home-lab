@@ -259,4 +259,4 @@ UFW is active with rules covering all services running on this server. I tested 
 
 ---
 
-*Back to [Home Lab Index](../../README.md)*
+*Next: [Windows Administration Labs](../admin-labs/windows-admin-labs.md)*

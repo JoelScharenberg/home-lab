@@ -97,4 +97,4 @@ Pi-hole ad blocking now works from anywhere in the world over an encrypted WireG
 
 ---
 
-*Next: [Windows 11 Enterprise VM](../vms/windows11-vm.md)*
+*Next: [SSH Key Authentication](../security/ssh-key-auth.md)*

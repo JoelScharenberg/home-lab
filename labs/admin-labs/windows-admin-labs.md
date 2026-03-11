@@ -219,4 +219,4 @@ exit
 
 ---
 
-*Next: [macOS Ventura VM](../vms/macos-ventura.md)*
+*Next: [macOS Administration Labs](macos-admin-labs.md)*

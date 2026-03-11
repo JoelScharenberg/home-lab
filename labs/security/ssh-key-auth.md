@@ -251,4 +251,4 @@ The Ubuntu Server VM now requires key-based authentication. Password login is re
 
 ---
 
-*Back to [Home Lab Index](../../README.md)*
+*Next: [Configure and Test UFW Firewall Rules on Ubuntu Server](ufw-firewall-rules.md)*
