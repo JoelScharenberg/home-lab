@@ -12,7 +12,7 @@ The goal isn't to show things went perfectly. It's to show I can figure out why 
 |---|---|
 | **Machine** | ASUS ROG STRIX Z490-G Gaming WiFi (2020) |
 | **CPU** | Intel Core i5-10600K (6 cores / 12 threads) |
-| **RAM** | 8GB DDR4 (second stick removed after hardware failure diagnosis) |
+| **RAM** | 16GB DDR4 (replaced failed stick; upgraded to full capacity March 2026) |
 | **Storage** | 1TB Samsung NVMe SSD |
 | **Hypervisor** | Proxmox VE 9.1 |
 | **Status** | Operational / Headless |

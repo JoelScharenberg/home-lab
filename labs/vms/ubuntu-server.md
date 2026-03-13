@@ -1,6 +1,6 @@
 # Ubuntu Server VM
 
-**Date:** February 1315, 2026
+**Date:** February 13-15, 2026
 **Status:**  Complete
 
 ---
@@ -192,6 +192,11 @@ btop
 ## Result
 
 Ubuntu Server 24.04.4 running and accessible via SSH at `192.168.86.32`. The detour through RAM diagnostics cost two days but produced a clear methodology for diagnosing hardware-level data corruption  and permanently explained a mystery that had plagued this machine for years.
+
+---
+
+**Update — March 12, 2026:** Replacement RAM stick arrived and installed. 
+Machine back to 16GB dual-channel. memtester passed on both sticks.
 
 ---
 
